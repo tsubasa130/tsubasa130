@@ -73,6 +73,8 @@ header {
 
 li{
   background:#e0ffff;
-  text-aline:left;
+  text-align:left;
   border:2px #afeeee dashed;
+  width:500px;
+  margin:0 auto;
 }
