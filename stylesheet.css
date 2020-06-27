@@ -67,8 +67,9 @@ header {
   opacity:1;
   z-index:9;
 }
-.top-wrapper p{
-  color:black;
+.top-wrapper p,h1{
+  color:#2f4f4f;
+  margin-top:50px;
 }
 
 li{
