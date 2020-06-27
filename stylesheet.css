@@ -36,11 +36,7 @@ header {
   z-index: 10;
 }
 
-.logo {
-  width: 124px;
-  height: 65px;
- 
-}
+
 
 .header-left {
   float: left;
@@ -52,6 +48,9 @@ header {
   float: right;
   margin-right: 25px;
   margin-top:10px;
+  margin-bottom:10px;
+  width:120px;
+  height:40px
  
 }
 
