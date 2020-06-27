@@ -21,6 +21,7 @@ a {
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(backgr.png);
+  opacity:0.3;
   background-size: cover;
   color: white;
   text-align: center;
@@ -88,6 +89,7 @@ header {
 .logo {
   width: 124px;
   height: 65px;
+ 
 }
 
 .header-left {
@@ -97,7 +99,8 @@ header {
 
 .header-right {
   float: right;
-  margin-right: -25px;
+  margin-right: 25px;
+  margin-top:10px;
 }
 
 .header-right a {
