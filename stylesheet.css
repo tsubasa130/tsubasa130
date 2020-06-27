@@ -75,6 +75,20 @@ li{
   background:#e0ffff;
   text-align:left;
   border:2px #afeeee dashed;
-  width:500px;
+  width:350px;
+  margin:0 auto;
+  list-style:none;
+}
+
+.prf-back{
+  width:600px;
   margin:0 auto;
 }
+
+.btn{
+  background-color:pink;
+  width:220px;
+  border-radius:10px;
+  box-shadow:0 10px lightpink;
+}
+
