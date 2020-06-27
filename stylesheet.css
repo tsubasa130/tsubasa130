@@ -79,6 +79,7 @@ li{
   width:350px;
   margin:0 auto;
   list-style:none;
+  opacity:0.8;
 }
 
 .prf-back{
@@ -88,7 +89,7 @@ li{
 
 .btn{
   background-color:pink;
-  width:220px;
+  padding:8px 24px;
   border-radius:5px;
   box-shadow:0 5px #db7093;
   display:inline-block;
