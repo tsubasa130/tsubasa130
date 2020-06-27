@@ -5,7 +5,7 @@
 
 body {
   margin: 0;
- 
+ list-style:none;
 }
 
 
@@ -71,3 +71,8 @@ header {
   color:black;
 }
 
+li{
+  background:#e0ffff;
+  text-aline:left;
+  border:2px #afeeee dashed;
+}
