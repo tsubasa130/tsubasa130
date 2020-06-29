@@ -78,7 +78,7 @@ li{
   line-height:30px;
   
 }
-.ul{
+ul{
   position:absolute;
   top:40px;
   left:220px;
@@ -128,7 +128,7 @@ li{
 
 .word p{
   position:absolute;
-  top:250px;
-  left:240px;
+  top:220px;
+  left:260px;
 }
   
