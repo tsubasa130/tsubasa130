@@ -84,21 +84,17 @@ li{
   padding:8px 24px;
   border-radius:5px;
   box-shadow:0 5px #db7093;
-  display:inline-block;
+  display:block;
   opacity:0.7;
   text-decoration:none;
   position:absolute;
-  left:380px;
-  top:450px;
+  left:297px;
+  top:310px;
 }
 .btn:hover{
   opacity:1;
 }
-.btn:active{
-  box-shadow:none;
-  position:relative;
-  top:6px;
-}
+
 
 
 .smn{
