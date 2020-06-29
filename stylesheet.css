@@ -94,7 +94,9 @@ li{
 .prf-back{
   width:600px;
   margin:0 auto;
-  position:relative;
+  position:absolute;
+  top:200px;
+  left:300px;
 }
 
 .btn{
