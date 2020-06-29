@@ -82,11 +82,15 @@ li{
   list-style:none;
   opacity:0.8;
   line-height:30px;
+  position:absolute;
+  top:40px;
+  left:300px;
 }
 
 .prf-back{
   width:600px;
   margin:0 auto;
+  position:relative;
 }
 
 .btn{
@@ -97,6 +101,10 @@ li{
   display:inline-block;
   opacity:0.7;
   text-decoration:none;
+  position:absolute;
+  top:380px;
+  left:300px;
+    
 }
 .btn:hover{
   opacity:1;
@@ -109,4 +117,7 @@ li{
 .smn{
   height:180px;
   width:180px;
+  position:absolute;
+  top:40px;
+  left:40px;
 }
