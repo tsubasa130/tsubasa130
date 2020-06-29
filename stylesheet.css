@@ -20,7 +20,6 @@ body {
   text-align: center;
   width:100%;
 
-  margin-top:65px;
   z-index:1;
 }
 
@@ -104,4 +103,10 @@ li{
   
 }
   
-  
+  .prf-one{
+    width:620px;
+   
+    margon:0 auto;
+    margin-top;50px;
+    position:relative;
+}
