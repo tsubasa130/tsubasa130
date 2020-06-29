@@ -87,26 +87,37 @@ li{
   display:inline-block;
   opacity:0.7;
   text-decoration:none;
+  position:absolute;
+  left:380px;
+  top:450px;
 }
 .btn:hover{
   opacity:1;
+}
+.btn:active{
+  box-shadow:none;
+  position:relative;
+  top:6px;
 }
 
 
 .smn{
   height:180px;
   width:180px;
-
-  top:670px;
-  left:870px;
+  position:absolute;
+  top:110px;
+  left:70px;
   
 }
   
   .profeel{
-    width:800px;
-    background-color:yellow;
-   
+    width:620px;
     margin:0 auto;
-
-
+    position:relative;
 }
+.prf-txt{
+  position:absolute;
+  top:70px;
+  left:350px;
+}
+  
