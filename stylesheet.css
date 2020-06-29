@@ -100,6 +100,9 @@ li{
 .smn{
   height:180px;
   width:180px;
+  position:absolute;
+  top:70px;
+  left:70px;
   
 }
   
