@@ -82,10 +82,14 @@ li{
   list-style:none;
   opacity:0.8;
   line-height:30px;
-  position:absolute;
-  top:40px;
-  left:300px;
+  
 }
+
+.ul{
+  position:absolute;
+  top:240px;
+  left:600px;
+  >
 
 .prf-back{
   width:600px;
@@ -102,8 +106,8 @@ li{
   opacity:0.7;
   text-decoration:none;
   position:absolute;
-  top:380px;
-  left:300px;
+  top:600px;
+  left:650px;
     
 }
 .btn:hover{
@@ -118,6 +122,6 @@ li{
   height:180px;
   width:180px;
   position:absolute;
-  top:40px;
-  left:40px;
+  top:240px;
+  left:360px;
 }
