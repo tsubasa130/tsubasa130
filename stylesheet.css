@@ -98,9 +98,9 @@ li{
 .smn{
   height:180px;
   width:180px;
-  position:absolute;
-  top:70px;
-  left:70px;
+
+  top:670px;
+  left:870px;
   
 }
   
@@ -109,5 +109,5 @@ li{
    
     margin:0 auto;
 
-    position:relative;
+
 }
