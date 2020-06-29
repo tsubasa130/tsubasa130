@@ -125,4 +125,10 @@ li{
   
   width:350px;
 }
+
+.word p{
+  position:absolute;
+  top:250px;
+  left:240px;
+}
   
